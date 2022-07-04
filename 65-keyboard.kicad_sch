@@ -902,7 +902,6 @@
     )
   )
 
-
   (junction (at 55.118 22.86) (diameter 0) (color 0 0 0 0)
     (uuid 16937597-1760-4561-b099-05c142c1c931)
   )
@@ -2639,7 +2638,7 @@
       (reference "SW16") (unit 1) (value "M1") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/0413b78a-3d0a-4d23-ae12-3d0e08916d5e"
-      (reference "SW17") (unit 1) (value "TAB") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW17") (unit 1) (value "TAB") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/c436520d-55b2-4527-a76c-72490775e24a"
       (reference "SW18") (unit 1) (value "Q") (footprint "marbastlib-mx:SW_MX_1u")
@@ -2678,13 +2677,13 @@
       (reference "SW29") (unit 1) (value "]") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/2183f857-60a1-42c5-886f-fbabb39d9758"
-      (reference "SW30") (unit 1) (value "\\") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW30") (unit 1) (value "\\") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/68ff6fcf-4344-4b14-aa4b-c5b73535d2c8"
       (reference "SW31") (unit 1) (value "M2") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/25662415-ef2e-44e0-b9ac-165c09f15d6d"
-      (reference "SW32") (unit 1) (value "CAPS") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW32") (unit 1) (value "CAPS") (footprint "marbastlib-mx:SW_MX_1.75u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/1d81dee8-12d2-4098-aef2-5f733b1c8af3"
       (reference "SW33") (unit 1) (value "A") (footprint "marbastlib-mx:SW_MX_1u")
@@ -2759,7 +2758,7 @@
       (reference "SW56") (unit 1) (value "/") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/aa21b96c-80a2-4553-bb2e-1a666f9116bd"
-      (reference "SW57") (unit 1) (value "RSHIFT") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW57") (unit 1) (value "RSHIFT") (footprint "marbastlib-mx:SW_MX_1.75u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/a085de88-c2ca-445f-b5c6-c20ef2b2f28a"
       (reference "SW58") (unit 1) (value "UPARROW") (footprint "marbastlib-mx:SW_MX_1u")
@@ -2768,22 +2767,22 @@
       (reference "SW59") (unit 1) (value "M3") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/b9151ae6-c30f-4e0d-ba1a-3962fffe2474"
-      (reference "SW60") (unit 1) (value "LCTRL") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW60") (unit 1) (value "LCTRL") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/9a6699bb-9f6b-47c8-a70f-55b81d9da6bf"
-      (reference "SW61") (unit 1) (value "WINDOWS") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW61") (unit 1) (value "WINDOWS") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/e637ac00-9f16-4b0a-a30b-28a949ae26d8"
-      (reference "SW62") (unit 1) (value "LALT") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW62") (unit 1) (value "LALT") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/a4960a20-bd49-4a32-aa3f-9eb3e1ba9131"
       (reference "SW63") (unit 1) (value "SPACE") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/bd8df3de-9e8d-489d-aea7-8ad284b0982d"
-      (reference "SW64") (unit 1) (value "RALT") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW64") (unit 1) (value "RALT") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/08c5dd6a-3e3c-48e1-b025-f5c47f8135fd"
-      (reference "SW65") (unit 1) (value "RCTRL") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SW65") (unit 1) (value "RCTRL") (footprint "marbastlib-mx:SW_MX_1.25u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/471159da-cb99-4a23-bd87-68f8c2411233"
       (reference "SW66") (unit 1) (value "LEFTARROW") (footprint "marbastlib-mx:SW_MX_1u")
