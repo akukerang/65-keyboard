@@ -2152,7 +2152,7 @@
     (uuid cff425b4-318c-4297-ad2c-e7032dcd0cc0)
     (property "Reference" "D1" (id 0) (at 212.09 96.52 90))
     (property "Value" "PRTR5V0U2X" (id 1) (at 212.09 93.98 90))
-    (property "Footprint" "random-keyboard-parts:SOT143B" (id 2) (at 212.09 78.74 0)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (id 2) (at 212.09 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" (id 3) (at 212.09 78.74 0)
@@ -2366,7 +2366,7 @@
       (reference "C8") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/cff425b4-318c-4297-ad2c-e7032dcd0cc0"
-      (reference "D1") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts:SOT143B")
+      (reference "D1") (unit 1) (value "PRTR5V0U2X") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/692fc6ef-306f-455d-9d81-1e62e915549d"
       (reference "D2") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
@@ -2638,7 +2638,7 @@
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/1889b11c-11fd-4803-8050-8621fcede469"
       (reference "SW16") (unit 1) (value "M1") (footprint "marbastlib-mx:SW_MX_1u")
     )
-    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/0413b78a-3d0a-4d23-ae12-3d0e08916d5e"
+    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/c549a0ba-9412-40bd-ae11-256ed31dd699"
       (reference "SW17") (unit 1) (value "TAB") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/c436520d-55b2-4527-a76c-72490775e24a"
@@ -2683,7 +2683,7 @@
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/68ff6fcf-4344-4b14-aa4b-c5b73535d2c8"
       (reference "SW31") (unit 1) (value "M2") (footprint "marbastlib-mx:SW_MX_1u")
     )
-    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/25662415-ef2e-44e0-b9ac-165c09f15d6d"
+    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/be5fe272-1283-43fc-a339-22837803fb78"
       (reference "SW32") (unit 1) (value "CAPS") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/1d81dee8-12d2-4098-aef2-5f733b1c8af3"
@@ -2758,7 +2758,7 @@
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/e3b426a1-e5b6-4eb6-89d9-02f41073a8bb"
       (reference "SW56") (unit 1) (value "/") (footprint "marbastlib-mx:SW_MX_1u")
     )
-    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/aa21b96c-80a2-4553-bb2e-1a666f9116bd"
+    (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/6f0a7878-f872-431b-b557-6bd93e38169b"
       (reference "SW57") (unit 1) (value "RSHIFT") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ea9b821a-105a-409d-9d09-afc4c3d218a6/a085de88-c2ca-445f-b5c6-c20ef2b2f28a"
